@@ -1,0 +1,10 @@
+,Van Dyke,wallet_2_a72D,wallet_3_SBet365
+Invested ($),"34,352","5,783","25,090"
+Profit ($),"409,881","74,982","145,620"
+Return multiple,12.9x,14.0x,6.8x
+Sig1 p-value,0.0000 ***,0.0716,0.0216 *
+Sig2 p-value,0.0000 ***,0.0023 **,0.0060 **
+Sig3 median h before,40.4,11.6,5.6
+Sig3 p-value,0.0000 ***,0.0001 ***,0.0000 ***
+Sig4 flags,"NEW_ACCOUNT, HIGH_CONCENTRATION, BURST_TRADING","HIGH_CONCENTRATION, BURST_TRADING","NEW_ACCOUNT, BURST_TRADING"
+Prosecuted,YES,NO,NO
